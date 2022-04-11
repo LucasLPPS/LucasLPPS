@@ -3,6 +3,8 @@
 <img src="https://myoctocat.com/assets/images/octocats/octocat-20.png" width="500" height="500"/>
 </div>
 My name is Lucas Pereira, I'm currently studying a bit of frontend and backend, trying to get into the market and get job opportunities. I consider myself a polite and respectful person, willing to help other people in personal and professional life.
+<br />
+<br />
 
 🌱 I’m currently learning:
 
