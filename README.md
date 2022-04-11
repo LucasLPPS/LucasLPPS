@@ -2,10 +2,13 @@
 
 
 🌱 I’m currently learning:
-* **Python**
-* **Javascript**
-* **HTML5 / CSS3**
-* **MySQL and Django (Basic and Intermediate)**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+
 
 📫 How to reach me: 
 * **Whatsapp:** (85)998081144
@@ -20,15 +23,3 @@ Estatísticas GitHub
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLPPS&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLPPS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<!--
-**LucasLPPS/LucasLPPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning ...
-
-- 📫 How to reach me: 
-* **Whatsapp:** (85)998081144
-* **Linkedin:** https://www.linkedin.com/in/lucas-pereira-334155182/
