@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Lucas Pereira, I'm currently studying a bit of frontend and backend, trying to get into the market and get job opportunities. I consider myself a polite and respectful person, willing to help other people in personal and professional life.
 
 🌱 I’m currently learning:
 
