@@ -1,5 +1,7 @@
+<div >
 ### Hi there 👋
-<img src="https://myoctocat.com/assets/images/octocats/octocat-20.png" width="100" height="100"/>
+<img src="https://myoctocat.com/assets/images/octocats/octocat-20.png" align="center" width="1000" height="1000"/>
+</div>
 My name is Lucas Pereira, I'm currently studying a bit of frontend and backend, trying to get into the market and get job opportunities. I consider myself a polite and respectful person, willing to help other people in personal and professional life.
 
 🌱 I’m currently learning:
